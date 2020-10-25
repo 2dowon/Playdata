@@ -1,10 +1,5 @@
 # Playdata
-이 공간에서는 [Playdata](https://playdata.io/) 에서 공부하면서 정리한 소스 코드들을 백업하는 용도로 사용합니다.
-
-</br>
-</br>
-
----
+[Playdata](https://playdata.io/) 학원에서 공부하면서 정리한 소스 코드들을 백업하는 용도로 사용합니다.
 
 </br>
 </br>
