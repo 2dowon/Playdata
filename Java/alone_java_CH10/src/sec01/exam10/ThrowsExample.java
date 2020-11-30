@@ -5,7 +5,7 @@ public class ThrowsExample {
 		try {
 			findClass();
 		} catch(ClassNotFoundException e) {
-			System.out.println("Å¬·¡½º°¡ Á¸ÀçÇÏÁö ¾Ê½À´Ï´Ù.");
+			System.out.println("Å¬ï¿½ï¿½ï¿½ï¿½ï¿½ï¿½ ï¿½ï¿½ï¿½ï¿½ï¿½ï¿½ï¿½ï¿½ ï¿½Ê½ï¿½ï¿½Ï´ï¿½.");
 		}
 	}
 	
