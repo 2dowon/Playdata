@@ -5,11 +5,13 @@
 </br>
 
 ## Python
-현재 "데이터 분석을 위한 파이썬 철저 입문" 책을 바탕으로 Python을 공부하고 있습니다.
+"데이터 분석을 위한 파이썬 철저 입문" 책을 바탕으로 Python을 공부했습니다.
 ![python_book](https://wikibook.co.kr/images/cover/l/9791158391522.jpg)
 
 </br>
 </br>
 
-## Algorithm test
-알고리즘 스터디는 [프로그래머스](https://programmers.co.kr/)에서 제공하는 코딩테스트 연습문제를 바탕으로 진행하고 있습니다.
+## Java
+"자바 프로그래밍 입문" 책과 "혼자 공부하는 자바" 책으로 Java를 공부하고 있습니다.
+![java book1](https://image.yes24.com/goods/63020974/800x0)
+![java book2](https://www.hanbit.co.kr/data/books/B5635758676_l.jpg)
